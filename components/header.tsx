@@ -16,9 +16,14 @@ export function Header() {
           </div>
         </div>
         <div className="hidden md:block">
-          <div className="bg-gradient-to-r from-thoughtful-coral to-thoughtful-pink px-4 py-2 rounded-lg">
+          <a
+            href="https://www.thoughtful.ai/contact"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="block bg-gradient-to-r from-thoughtful-coral to-thoughtful-pink px-4 py-2 rounded-lg hover:opacity-90 transition-opacity"
+          >
             <p className="text-sm font-medium text-white">Customer Support</p>
-          </div>
+          </a>
         </div>
       </div>
     </div>
