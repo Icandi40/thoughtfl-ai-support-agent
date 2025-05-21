@@ -57,7 +57,7 @@ This Next.js application provides intelligent, context-aware responses about Tho
 
 ![Thoughtful AI Support Agent Demo](https://example.com/demo.gif)
 
-Try the live demo: [Thoughtful AI Support Agent](https://thoughtful-ai-support.vercel.app)
+Try the live demo:(https://v0-thoughtful-ai-support-agent-gn.vercel.app/)
 
 ## 🚀 Technologies
 
